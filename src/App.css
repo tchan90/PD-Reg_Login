@@ -1,0 +1,101 @@
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+	font-size: inherit;
+}
+nav .nav-wrapper {
+width:900px;
+}
+
+.login-font{
+  font-family:cutive;
+  font-size:18px;
+}
+
+.login-font:hover{
+  color:grey !important;
+  background-color:white;
+}
+
+.nav-size{
+  height: 108px !important;
+  background-image:url('/img/nav-grey_06.png');
+  background-repeat:repeat;
+}
+
+.logo-margin{
+  margin-top:3px;
+}
+
+.register-font{
+  font-family:Cutive;
+}
+
+.footer-bg{
+  background-image:url('/img/footer_02.png');
+  background-repeat:repeat;
+}
+
+a {
+  color:white !important; 
+} 
+
+.container-homepg{
+  width: 856px;
+  height: 768px;
+  margin-left: auto;
+  margin-right: auto;
+  background-image:url('/img/login-page2_02.png');
+  background-repeat:no-repeat;
+  margin-top:50px;
+
+}
+
+.buttons-div{
+  margin-left:auto;
+  margin-right:auto;
+  width:230px;
+}
+
+.buttons-margin{
+  margin-left:10px;
+}
+
+.btn-style{
+  background-color:transparent !important;
+  border: 1px grey solid;
+  margin-top:400px;
+  color:black !important;
+  font-size:16px;
+}
+
+.btn-style:hover{
+  background-color:rgb(155, 151, 151, 0.4) !important;
+  color:black;
+}
+
+.input-padding{
+    padding-left:20px;
+    padding-right:20px; 
+}
+
+.section-submit{
+  width:122px;
+  margin-left:auto;
+  margin-right:auto;
+  padding-bottom:27px;
+}
+
+.center-form{
+  width:100%;
+ 
+}
+
+.row{
+  width:700px;
+}
+
+.footer-copyright{
+  float:right;
+}
