@@ -1,5 +1,5 @@
 ## Private Detective - Registration and Login
-Part of the back-end project for Private Detective, this is the login and registration page with validation. Bootstrap was used as the framework.
+Part of the back-end project for Private Detective, this is the login and registration page with validation. Bootstrap was used as the CSS framework.
 
 <h2> Components </h2>
 <ul>
